@@ -1,9 +1,9 @@
 @snap[west span-50]
-#### @color[red](We were pondering about a powerful publishing item.)
+### @color[red](We were pondering about a powerful publishing item.)
 @snapend
 
 @snap[east span-50]
-##### @color[gray](When we listed our needs, the solution revealed itself!)  
+### @color[gray](When we listed our needs, the solution revealed itself!)  
 @snapend
 ---
 
