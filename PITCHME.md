@@ -10,11 +10,13 @@
 
 ![](assets/img/cover.png)
 
-@css[tip](Space or Down key takes you on a brief tour of these three options.)
+@css[tip](Take on a brief tour of these three options.)
 
 @fa[arrow-down]
 
 +++@title[Options]
+
+#### Something here
 ---
 @title[Customize Slide Layout]
 
