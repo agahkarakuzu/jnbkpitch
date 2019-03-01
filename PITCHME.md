@@ -14,7 +14,7 @@
 
 @fa[arrow-down]
 
-+++@title[]
++++@title[Options]
 ---
 @title[Customize Slide Layout]
 
