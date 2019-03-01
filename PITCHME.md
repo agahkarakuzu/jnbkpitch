@@ -1,10 +1,10 @@
-# Let's Get Started
+# Find the name hidden in the next slide
+### It will reveal one of our favorite recipes for publishing!  
 
 ---
 
-## Add Some Slide Candy
 
-![](assets/img/presentation.png)
+![](assets/img/cover.png)
 
 ---
 @title[Customize Slide Layout]
