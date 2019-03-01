@@ -1,7 +1,7 @@
 
-#### We were pondering about a powerful publishing item.
+#### @We were pondering about a powerful publishing item.[red](**color**)
 
-##### When we listed what our needs, the solution revealed itself!    
+##### @When we listed what our needs, the solution revealed itself![gray](**color**)    
 
 ---
 
