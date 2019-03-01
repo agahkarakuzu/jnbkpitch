@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 .spaced li {
   margin:0 0 10px 0;
 }
@@ -6,24 +8,25 @@
   box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
 }
 
+
 .headline h2 {
   color: white;
   letter-spacing: 0.05em;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-variant: small-caps;
 }
 
 .headline h4 {
   color: red;
   letter-spacing: 0.05em;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-variant: small-caps;
 }
 
-headline h5 {
+.headline h5 {
   color: #4d4e4f;
   letter-spacing: 0.05em;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-variant: small-caps;
 }
 
