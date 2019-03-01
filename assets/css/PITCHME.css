@@ -9,6 +9,21 @@
 .headline h2 {
   color: white;
   letter-spacing: 0.05em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-variant: small-caps;
+}
+
+.headline h4 {
+  color: red;
+  letter-spacing: 0.05em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-variant: small-caps;
+}
+
+headline h5 {
+  color: #4d4e4f;
+  letter-spacing: 0.05em;
+  font-family: Arial, Helvetica, sans-serif;
   font-variant: small-caps;
 }
 

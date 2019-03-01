@@ -1,6 +1,7 @@
 
 #### We were pondering about a powerful publishing item.
-##### Then we just listed what we need, and the solution revealed itself!    
+
+##### When we listed what our needs, the solution revealed itself!    
 
 ---
 
