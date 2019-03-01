@@ -14,7 +14,8 @@
 
 @fa[arrow-down]
 
-+++@title[Options]
++++
+@title[Options]
 
 #### Something here
 ---
