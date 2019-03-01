@@ -1,5 +1,6 @@
-# Find the name hidden in the next slide
-### It will reveal one of our favorite recipes for publishing!  
+
+#### We were pondering about a powerful publishing item.
+##### Then we just listed what we need, and the solution revealed itself!    
 
 ---
 
