@@ -12,6 +12,7 @@
 ![](assets/img/cover.png)
 
 
+<br>
 
 @css[tip](Take on a brief tour of these three options brought by the Jupyter Book.)
 
