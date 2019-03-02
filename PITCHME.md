@@ -24,7 +24,7 @@
 
 
 
-@snap[west span-10]
+@snap[west span-25]
 ### @color[gray](Enliven your paper)  
 ![](assets/img/leafgreen.png)
 @snapend
