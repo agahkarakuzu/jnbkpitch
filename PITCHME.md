@@ -7,8 +7,9 @@
 @snapend
 ---
 
-
+@snap[north span-20]
 ![](assets/img/cover.png)
+@snapend
 
 @css[tip](Take on a brief tour of these three options brought by the Jupyter Book.)
 
