@@ -63,7 +63,7 @@
 @title[ER]
 
 @snap[west span-30]
-### @color[gray](Create interactive tutorials)  
+### @color[gray](Share a brief analysis)  
 ![](assets/img/shareorange.png)
 @snapend
 
@@ -85,11 +85,11 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Let us show you an example! 
 @snapend
 
 @snap[east span-50]
-![](assets/img/presentation.png)
+![](assets/img/jbook.png)
 @snapend
 
 ---?color=#E58537
