@@ -19,12 +19,12 @@
 @fa[arrow-down]
 
 
-+++?image=img/bg/green.jpg&position=right&size=70% 100% 
++++?image=img/bg/green.jpg&position=right&size=60% 100% 
 @title[JU]
 
 
 
-@snap[west span-25]
+@snap[west span-30]
 ### @color[gray](Enliven your paper)  
 ![](assets/img/leafgreen.png)
 @snapend
