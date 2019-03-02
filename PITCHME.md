@@ -22,8 +22,11 @@
 +++?image=img/bg/green.jpg&position=right&size=70% 100% 
 @title[JU]
 
-@snap[west span-30]
-![](assets/img/leaf.png)
+
+
+@snap[west span-10]
+### @color[gray](Enliven your paper)  
+![](assets/img/leafgreen.png)
 @snapend
 
 ---
