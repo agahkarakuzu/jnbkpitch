@@ -22,11 +22,17 @@
 +++?image=img/bg/green.jpg&position=right&size=60% 100% 
 @title[JU]
 
-
-
 @snap[west span-30]
 ### @color[gray](Enliven your paper)  
 ![](assets/img/leafgreen.png)
+@snapend
+
+@snap[east text-white span-45]
+@ol[split-screen-list text-08](false)
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
+@olend
 @snapend
 
 ---
