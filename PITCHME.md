@@ -23,12 +23,12 @@
 @title[JU]
 
 @snap[west span-30]
-### @color[gray](Enliven your paper)  
+### @color[gray](Enliven your papers)  
 ![](assets/img/leafgreen.png)
 @snapend
 
-@snap[east text-white span-60]
-@ol[split-screen-list text-08](false)
+@snap[east text-white span-70]
+@ol[split-screen-list text-08]
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
