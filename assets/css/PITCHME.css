@@ -49,3 +49,56 @@
   color: white;
   font-weight: bold;
 }
+
+.reveal ol li {
+  margin-left: 0;
+  padding-right: 0;
+  list-style-type: none;
+}
+
+.reveal ol li {
+position: relative;
+counter-increment: step-counter;
+}
+
+.reveal ol li::before {
+color: white;
+font-size: 80%;
+font-weight: bold;
+padding: 3px 10px;
+margin-right: 15px;
+border-radius: 3px;
+background-color: #F26225;
+content: counter(step-counter);
+}
+
+.reveal section img {
+border: none;
+box-shadow: none;
+background: none;
+}
+
+.reveal .slide-number {
+color: black !important;
+}
+
+.reveal blockquote {
+  width: 100%;
+  padding: 17px;
+  border-radius: 17px;
+  background: rgba(255,255,255,0.2);
+}
+
+.reveal p span.slide-title {
+display: none;
+}
+
+.reveal .slides section .code-presenting-annotation {
+color: white;
+background: black;
+padding: 0px 15px;
+border-radius: 15px;
+opacity: 0.75 !important;
+font-size: 50% !important;
+}
+
