@@ -19,8 +19,8 @@
 @fa[arrow-down]
 
 
-+++
-@title[Options]
++++?image=img/bg/green.jpg&position=right&size=50% 100% @title[Text + Image]
+
 
 #### Something here
 ---
