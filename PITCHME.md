@@ -27,7 +27,7 @@
 ![](assets/img/leafgreen.png)
 @snapend
 
-@snap[east text-white span-70]
+@snap[east text-white span-71]
 @ol[split-screen-list text-08]
 - Lorem ipsum dolor sit amet, consectetur elit
 - Ut enim ad minim veniam, quis exercitation
