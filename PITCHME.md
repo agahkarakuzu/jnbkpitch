@@ -22,8 +22,10 @@
 +++?image=img/bg/green.jpg&position=right&size=70% 100% 
 @title[JU]
 
+@snap[west span-30]
+![](assets/img/leaf.png)
+@snapend
 
-#### Something here
 ---
 @title[Customize Slide Layout]
 
