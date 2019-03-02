@@ -7,7 +7,7 @@
 @snapend
 ---
 
-@snap[north span-20]
+@snap[north]
 ![](assets/img/cover.png)
 @snapend
 
