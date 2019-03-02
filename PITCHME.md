@@ -6,7 +6,7 @@
 ### @color[gray](When we listed our needs, the solution revealed itself!)  
 @snapend
 ---
-transition : fade
+@transition[fade]
 
 @snap[north snap-80]
 ![](assets/img/cover.png)
