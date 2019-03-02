@@ -6,14 +6,13 @@
 ### @color[gray](When we listed our needs, the solution revealed itself!)  
 @snapend
 ---
-
-@snap[north]
 ![](assets/img/cover.png)
-@snapend
+
 
 @css[tip](Take on a brief tour of these three options brought by the Jupyter Book.)
 
 @fa[arrow-down]
+
 
 +++
 @title[Options]
