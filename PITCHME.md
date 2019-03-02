@@ -20,7 +20,7 @@
 
 
 +++?image=img/bg/green.jpg&position=right&size=60% 100% 
-@title[JU]
+@title[JUP]
 
 @snap[west span-30]
 ### @color[gray](Enliven your papers)  
@@ -37,7 +37,49 @@
 - Ut enim ad minim veniam, quis exercitation
 - Duis aute irure dolor in reprehenderit in voluptate
 @olend
+@snapend 
+
++++?image=img/bg/blue.jpg&position=right&size=60% 100% 
+@title[YT]
+
+@snap[west span-30]
+### @color[gray](Create interactive tutorials)  
+![](assets/img/hatblue.png)
 @snapend
+
+@snap[north-east text-white span-60]
+##### @color[white](Some explanation goes here:)  
+@snapend
+
+@snap[east text-white span-60]
+@ol[split-screen-list text-08]
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
+@olend
+@snapend
+
++++?image=img/bg/orange.jpg&position=right&size=60% 100% 
+@title[ER]
+
+@snap[west span-30]
+### @color[gray](Create interactive tutorials)  
+![](assets/img/shareorange.png)
+@snapend
+
+@snap[north-east text-white span-60]
+##### @color[white](Some explanation goes here:)  
+@snapend
+
+@snap[east text-white span-60]
+@ol[split-screen-list text-08]
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
+@olend
+@snapend
+
+
 
 ---
 @title[Customize Slide Layout]
