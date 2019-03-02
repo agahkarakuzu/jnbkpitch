@@ -19,7 +19,8 @@
 @fa[arrow-down]
 
 
-+++?image=img/bg/green.jpg&position=right&size=50% 100% @title[Text + Image]
++++?image=img/bg/green.jpg&position=right&size=70% 100% 
+@title[JU]
 
 
 #### Something here
