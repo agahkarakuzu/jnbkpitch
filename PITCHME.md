@@ -27,8 +27,8 @@
 ![](assets/img/leafgreen.png)
 @snapend
 
-@snap[east text-white span-60]
-##### @color[darkgray](Some explanation goes here:)  
+@snap[north-east text-white span-60]
+##### @color[white](Some explanation goes here:)  
 @snapend
 
 @snap[east text-white span-60]
