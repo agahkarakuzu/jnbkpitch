@@ -10,8 +10,8 @@
 
 ![](assets/img/cover.png)
 
-@css[tip](Take on a brief tour of these three options.)
-@css[tip](Made possible by the Jupyter Book.)
+@css[tip](Take on a brief tour of these three options brought by the Jupyter Book.)
+
 @fa[arrow-down]
 
 +++
