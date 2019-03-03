@@ -45,7 +45,7 @@
 @snapend
 
 
-+++?image=img/bg/blue.jpg&position=right&size=60% 100% 
++++?image=img/bg/blue.jpg&position=right&size=65% 100% 
 @title[Create interactive tutorials]
 
 @snap[west span-30]
@@ -53,12 +53,16 @@
 ![](assets/img/hatblue.png)
 @snapend
 
-@snap[north-east text-left text-07 span-65]
+@snap[north-east text-left text-06 span-65]
 
 @snap[text-left text-bold]
-@color[white](Imagine people who'd like to learn how to use a programming tool or a computation-linked subject. Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly.)  
+@color[white](Imagine people who'd like to learn how to use a programming tool or a computation-linked subject.)  
 @snapend
 <br>
+@snap[text-left text-italic]
+Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly.
+@snapend
+
 @snap[text-left text-bold]
 @color[black](Creating interactive tutorials with Jupyter Books, you can take this burden away!)
 @snapend
