@@ -59,7 +59,7 @@
 
 
 .reveal ol li{
-  color: white;
+  color: black;
   font-size: 50%;
   /**font-weight: bold;**/
   padding: 3px 10px;
@@ -67,7 +67,7 @@
   margin-right: 10px;
   border-radius: 3px;
   font-size: 0.6em !important;
-  background-color:rgba(200,10,10,0.2);
+  background-color:rgba(200,200,200,0.2);
   opacity: 0.3;
   content: counter(step-counter);
   }
