@@ -29,12 +29,13 @@
 
 
 @snap[north-east text-left text-07 span-65]
-@snap[text-center text-bold]
+@snap[text-left text-bold]
 @color[white](We know that pages long static PDFs are only a part of your research story.)
 @snapend
 <br>
-
+@snap[text-left text-bold]
 @color[black](Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
+@snapend
 
 <br>
 <br>
