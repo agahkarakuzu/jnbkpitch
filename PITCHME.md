@@ -27,8 +27,8 @@
 ![](assets/img/leafgreen.png)
 @snapend
 
-@snap[north-east span-65]
-@css[hdr](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story! For example:)  
+@snap[north-east span-60]
+@box[bg-purple text-white](Step 1.#We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story! For example:)
 @snapend
 
 @snap[east text-white span-65]
