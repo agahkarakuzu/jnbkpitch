@@ -39,7 +39,7 @@
 <br>
 
 @ol[split-screen-list text-09]
-- Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
+- Breathe interactivity into the display items of your old papers. Readers can replicate your key figures and explore your findings like never before. 
 - Transform a pseudo-algorithm into an online executable codeblock of your favorite language.   
 - Create a digital narrative of your summary analysis, boost up the reproducibility of your study.
 @olend
@@ -80,9 +80,7 @@
 @snapend
 
 
-
-
-+++?image=img/bg/orange.jpg&position=right&size=60% 100% 
++++?image=img/bg/orange.jpg&position=right&size=65% 100% 
 @title[Share a brief analysis]
 
 @snap[west span-30]
@@ -91,17 +89,27 @@
 @snapend
 
 
-@snap[north-east text-white span-60]
-##### @color[white](You are on some interesting finding, but not ready for publishing a paper yet. Instead, you have some questions and need feedback from other researchers. What if there was a publishing item to easily communicate it? Jupyter Books have you covered:)  
+@snap[north-east text-left text-06 span-65]
+
+@snap[text-left text-bold]
+@color[white](You are onto something interesting, but not ready for writing a paper yet?)
+@snapend
+<br>
+@snap[text-left text-italic]
+@color[white](Instead, you may want to share your preliminary results with your community and start a discussion. What if there was a publishing item - of your own - that eases the communication?)
 @snapend
 
-@snap[east text-white span-60]
-@ol[split-screen-list text-08]
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+Good news, Jupyter Books have you covered!   
+
+@ol[split-screen-list text-09]
+- Make the most out of the interactive medium to get your points across clearly.  
+- Organize text and one or more computational environment in one place.  
+- Feed your data into the publication from your favorite data repository. 
 @olend
+
+
 @snapend
+
 
 
 ---
@@ -114,37 +122,15 @@
 ![](assets/img/jbook.png)
 @snapend
 
----?color=#E58537
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
 ---
 @title[FAQ]
 
 --> Can I start writing my paper in Jupyter Book? 
 
-In theory, you can. But in practice, Jupyter Book's ecosystem does not provide you with tools for collaborative text editing. So, it may not be the most convenient way to start writing a paper from scratch. It is a medium where you bring different pieces together to create an open, interactive and reproducible publication. 
+In theory, you can. But in practice, Jupyter Book's ecosystem does not provide you with a word processor for collaborative text editing. So, it may not be the most convenient way to start writing a paper from scratch. It is a medium where you bring different pieces together to create an open, interactive and reproducible publication. 
 
---> My work does not include any code. What value can Jupyter Books bring to my workflow? 
+--> My work does not include any code. What value can Jupyter Books add to my workflow? 
 
 --> License? 
 
 --> Citing? 
-
-OPEN.INTERACTIVE.PUBLISHING. 
