@@ -34,16 +34,14 @@
 <br>
 @color[black](Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
 
-@snapend
-
-
-@snap[midpoint-east span-65]
 @ol[split-screen-list text-08]
 - Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
 - Transform a pseudo-algorithm into an online executable codeblock of your favorite language.   
 - Create a digital narrative of your summary analysis, boost up the reproducibility of your study.
 @olend
-@snapend 
+
+@snapend
+
 
 +++?image=img/bg/blue.jpg&position=right&size=60% 100% 
 @title[Create interactive tutorials]
