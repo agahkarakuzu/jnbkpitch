@@ -37,12 +37,11 @@
 @color[black](Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
 @snapend
 <br>
-@ol[split-screen-list text-9]
+@ol[split-screen-list text-09]
 - Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
 - Transform a pseudo-algorithm into an online executable codeblock of your favorite language.   
 - Create a digital narrative of your summary analysis, boost up the reproducibility of your study.
 @olend
-
 @snapend
 
 
@@ -54,17 +53,27 @@
 ![](assets/img/hatblue.png)
 @snapend
 
-@snap[north-east text-white span-60]
-##### @color[white](Imagine people who'd like to learn how to use a programming tool or a computation-linked subject. Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly. Creating interactive tutorials with Jupyter Books, you can take this burden away: )  
-@snapend
+@snap[north-east text-left text-07 span-65]
 
-@snap[east text-white span-60]
+@snap[text-left text-bold]
+@color[white](Imagine people who'd like to learn how to use a programming tool or a computation-linked subject. Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly.)  
+@snapend
+<br>
+@snap[text-left text-bold]
+@color[black](Creating interactive tutorials with Jupyter Books, you can take this burden away!)
+@snapend
+<br>
 @ol[split-screen-list text-08]
 - Deal with dependencies once, xxxxx. 
 - xxxx
 - xxxx
 @olend
+
+
 @snapend
+
+
+
 
 +++?image=img/bg/orange.jpg&position=right&size=60% 100% 
 @title[Share a brief analysis]
