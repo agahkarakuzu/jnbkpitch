@@ -136,9 +136,9 @@ Good news, Jupyter Books have you covered!
 
 #### @color[gray](Give interactive figure a try!)
 @css[tip](Jupyter Book from the previous slide will be rendered. It may take few seconds.)
-<div class="iframe_container">
-<iframe src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting"></iframe>
-</div>
+
+<iframe data-src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting" scroll="no" style="overflow: hidden"></iframe>
+
 
 +++
 @title[Show/hide code cells]
