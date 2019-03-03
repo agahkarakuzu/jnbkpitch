@@ -125,9 +125,9 @@ Good news, Jupyter Books have you covered!
 +++
 @title[GIF1]
 
-@snap[midpoint]
+
 ![](assets/img/gif1.gif)
-@snapend
+
 
 
 
