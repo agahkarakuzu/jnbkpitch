@@ -20,7 +20,7 @@
 
 
 +++?image=img/bg/green.jpg&position=right&size=60% 100% 
-@title[JUP]
+@title[Enliven your papers]
 
 @snap[west span-30]
 ### @color[gray](Enliven your papers)  
@@ -28,19 +28,19 @@
 @snapend
 
 @snap[north-east text-white span-60]
-##### @color[white](Some explanation goes here:)  
+##### @color[white](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story! For example:)  
 @snapend
 
 @snap[east text-white span-60]
 @ol[split-screen-list text-08]
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
+- Transform that pseudo-algorithm into an online executable codeblock of your favorite language.   
+- Create a digital narrative of your summary analysis, boost up the reproducibility of your study.
 @olend
 @snapend 
 
 +++?image=img/bg/blue.jpg&position=right&size=60% 100% 
-@title[YT]
+@title[Create interactive tutorials]
 
 @snap[west span-30]
 ### @color[gray](Create interactive tutorials)  
@@ -48,27 +48,28 @@
 @snapend
 
 @snap[north-east text-white span-60]
-##### @color[white](Some explanation goes here:)  
+##### @color[white](Imagine people who'd like to learn how to use a programming tool or a computation-linked subject. Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly. Creating interactive tutorials with Jupyter Books, you can take this burden away: )  
 @snapend
 
 @snap[east text-white span-60]
 @ol[split-screen-list text-08]
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- Deal with dependencies once, xxxxx. 
+- xxxx
+- xxxx
 @olend
 @snapend
 
 +++?image=img/bg/orange.jpg&position=right&size=60% 100% 
-@title[ER]
+@title[Share a brief analysis]
 
 @snap[west span-30]
 ### @color[gray](Share a brief analysis)  
 ![](assets/img/shareorange.png)
 @snapend
 
+
 @snap[north-east text-white span-60]
-##### @color[white](Some explanation goes here:)  
+##### @color[white](You are on some interesting finding, but not ready for publishing a paper yet. Instead, you have some questions and need feedback from other researchers. What if there was a publishing item to easily communicate it? Jupyter Books have you covered:)  
 @snapend
 
 @snap[east text-white span-60]
@@ -80,9 +81,7 @@
 @snapend
 
 
-
 ---
-@title[Customize Slide Layout]
 
 @snap[west span-50]
 ## Let us show you an example! 
@@ -112,12 +111,17 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
----?image=assets/img/presenter.jpg
+---
+@title[FAQ]
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+--> Can I start writing my paper in Jupyter Book? 
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+In theory, you can. But in practice, Jupyter Book's ecosystem does not provide you with tools for collaborative text editing. So, it may not be the most convenient way to start writing a paper from scratch. It is a medium where you bring different pieces together to create an open, interactive and reproducible publication. 
+
+--> My work does not include any code. What value can Jupyter Books bring to my workflow? 
+
+--> License? 
+
+--> Citing? 
+
+OPEN.INTERACTIVE.PUBLISHING. 
