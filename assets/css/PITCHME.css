@@ -73,11 +73,11 @@ counter-increment: step-counter;
 color: white;
 font-size: 50%;
 /**font-weight: bold;**/
-list-style-position: outside;
 padding: 3px 10px;
 margin:0 0 10px 0;  
 margin-right: 10px;
 border-radius: 3px;
+font-size: 0.6em !important;
 background-color: #4d4e4f;
 content: counter(step-counter);
 }
