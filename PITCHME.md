@@ -37,7 +37,7 @@
 <br>
 <br>
 
-@ol[split-screen-list text-10]
+@ol[split-screen-list text-11]
 - Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
 - Transform a pseudo-algorithm into an online executable codeblock of your favorite language.   
 - Create a digital narrative of your summary analysis, boost up the reproducibility of your study.
