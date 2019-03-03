@@ -31,7 +31,7 @@
 @box[bg-purple text-white box-stuff](Step 1.#We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story! For example:)
 @snapend
 
-@snap[east text-white span-75]
+@snap[east text-white span-65]
 @ol[split-screen-list]
 - Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
 - Transform that pseudo-algorithm into an online executable codeblock of your favorite language.   
