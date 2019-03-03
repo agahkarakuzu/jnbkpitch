@@ -17,8 +17,7 @@
 .hdr {
   color:rgb(44, 43, 43);
   font-size: 0.6em !important;
-  letter-spacing: 0.05em;
-  text-align: right;
+  text-align: left;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -59,7 +58,7 @@
 }
 
 .reveal ol li{
-color: black;
+color: white;
 font-size: 50%;
 /**font-weight: bold;**/
 padding: 3px 10px;
@@ -67,7 +66,8 @@ margin:0 0 10px 0;
 margin-right: 10px;
 border-radius: 3px;
 font-size: 0.7em !important;
-background-color: 	#C0C0C0;
+background-color: black;
+opacity: 0.3;
 content: counter(step-counter);
 }
 
