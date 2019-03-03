@@ -60,14 +60,14 @@
 @snapend
 <br>
 @snap[text-left text-italic]
-Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly.
+@color[white](Bouncing between documents and a software won't make it any easier for them, let alone getting all the neccesary tools working properly.)
 @snapend
-
+<br>
 @snap[text-left text-bold]
 @color[black](Creating interactive tutorials with Jupyter Books, you can take this burden away!)
 @snapend
 <br>
-@ol[split-screen-list text-08]
+@ol[split-screen-list text-09]
 - Deal with dependencies once, xxxxx. 
 - xxxx
 - xxxx
