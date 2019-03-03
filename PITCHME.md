@@ -28,9 +28,10 @@
 @snapend
 
 @snap[north-east span-65]
-@css[hdr](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
+@css[h5](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
 @snapend
 
+<br>
 <br>
 
 @snap[east text-white span-65]
