@@ -134,10 +134,9 @@ Good news, Jupyter Books have you covered!
 +++
 @title[iframe]
 
-#### @color[gray](Give interactive figure a try!)
-
 <iframe class="ifrm" data-src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting"></iframe>
 
+#### @color[gray](Give interactive figure a try!)
 
 +++
 @title[Show/hide code cells]
