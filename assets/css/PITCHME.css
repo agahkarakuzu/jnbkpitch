@@ -17,8 +17,8 @@
 .hdr {
   color:rgb(44, 43, 43);
   font-size: 0.6em !important;
-  line-height: normal;
-  text-align: left;
+  letter-spacing: 0.05em;
+  text-align: right;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -71,7 +71,7 @@ counter-increment: step-counter;
 
 .reveal ol li::before {
 color: white;
-font-size: 70%;
+font-size: 50%;
 /**font-weight: bold;**/
 list-style-position: outside;
 padding: 3px 10px;
