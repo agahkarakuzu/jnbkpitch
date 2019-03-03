@@ -17,6 +17,7 @@
 .hdr {
   color:rgb(44, 43, 43);
   font-size: 0.6em !important;
+  line-height: normal;
   text-align: left;
   font-family: 'Open Sans', sans-serif;
 }
