@@ -17,7 +17,7 @@
 .hdr {
   color:rgb(44, 43, 43);
   font-size: 0.6em !important;
-  text-align: left;
+  text-align: left !important;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -66,7 +66,7 @@ margin:0 0 10px 0;
 margin-right: 10px;
 border-radius: 3px;
 font-size: 0.7em !important;
-background-color: black;
+background-color:rgba(10,10,10,0.2);
 opacity: 0.3;
 content: counter(step-counter);
 }
