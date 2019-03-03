@@ -115,14 +115,34 @@ Good news, Jupyter Books have you covered!
 ---
 
 @snap[west span-50]
-## Let us show you an example! 
+## @color[gray](Let us show you an example!)
 @snapend
 
 @snap[east span-50]
 ![](assets/img/jbook.png)
 @snapend
 
++++
+@title[GIF1]
+
+@snap[midpoint]
+![](assets/img/gif1.gif)
+@snapend
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
+
 @title[FAQ]
 
 --> Can I start writing my paper in Jupyter Book? 
