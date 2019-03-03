@@ -33,9 +33,10 @@
 <br>
 <br>
 @color[black](Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
-<br>
-<br>
+
 @snapend
+
+## 
 
 @snap[east span-65]
 @ol[split-screen-list text-08]
