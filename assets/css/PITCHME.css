@@ -59,14 +59,14 @@
 
 
 .reveal ol li{
-  color: white;
+  color: black;
   /**font-weight: bold;**/
   padding: 3px 10px;
   margin:0 0 10px 0;  
   margin-right: 10px;
   border-radius: 3px;
   font-size: 0.7em !important;
-  background-color:rgba(10,10,10,0.4);
+  background-color:rgba(255,255,255,0.4);
   content: counter(step-counter);
   }
 
