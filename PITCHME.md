@@ -123,13 +123,25 @@ Good news, Jupyter Books have you covered!
 @snapend
 
 @snap[south]
-@fa[arrow-down fa-2x icon-color]
+@fa[arrow-down fa-3x icon-color]
 @snapend
 +++
 @title[Anatomy of a Jupyter Book.]
 
 #### @color[gray](Anatomy of a Jupyter Book)
 ![](assets/img/gif1.gif)
+
++++
+@title[iframe]
+
+#### @color[gray](Give it a try!)
+<iframe class="stretch" data-src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting"></iframe>
+
++++
+@title[Show/hide code cells]
+
+#### @color[gray](Anatomy of a Jupyter Book)
+
 
 
 
