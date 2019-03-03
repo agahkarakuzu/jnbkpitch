@@ -123,9 +123,9 @@ Good news, Jupyter Books have you covered!
 @snapend
 
 +++
-@title[GIF1]
+@title[Anatomy of a Jupyter Book.]
 
-
+### @color[gray](Anatomy of a Jupyter Book)
 ![](assets/img/gif1.gif)
 
 
