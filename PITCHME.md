@@ -122,6 +122,9 @@ Good news, Jupyter Books have you covered!
 ![](assets/img/jbook.png)
 @snapend
 
+@snap[south]
+@fa[arrow-down]
+@snapend
 +++
 @title[Anatomy of a Jupyter Book.]
 
