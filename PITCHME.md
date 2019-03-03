@@ -58,7 +58,7 @@
 @snap[north-east text-left text-06 span-65]
 
 @snap[text-left text-bold]
-@color[white](Imagine people who'd like to learn how to use a programming tool or a computation-linked subject.)  
+@color[white](Imagine people who'd like to learn how to use a programming tool or a computational science subject.)  
 @snapend
 <br>
 @snap[text-left text-italic]
@@ -71,9 +71,9 @@
 <br>
 
 @ol[split-screen-list text-09]
-- Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
-- Transform a pseudo-algorithm into an online executable codeblock of your favorite language.   
-- Create a digital narrative of your summary analysis, boost up the reproducibility of your study.
+- Help learners focus their attention on a single page, where implementation meets information. 
+- Make all the computational material readily available for executing code online, with one click.  
+- Use interactive widgets to create a seamless learning experience. Few gestures can surrogate multiple lines of code.
 @olend
 
 
