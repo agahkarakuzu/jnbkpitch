@@ -123,7 +123,7 @@ Good news, Jupyter Books have you covered!
 @snapend
 
 @snap[south]
-@fa[arrow-down fa-3x icon-color]
+@fa[arrow-down fa-2x icon-color]
 @snapend
 +++
 @title[Anatomy of a Jupyter Book.]
