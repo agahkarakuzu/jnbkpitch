@@ -28,8 +28,12 @@
 @snapend
 
 
+@snap[north-east text-left text-07 span-65]
+@color[black](We know that pages long static PDFs are only a part of your research story.)
+@snapend
+
 @snap[north-east text-right text-07 span-65]
-@color[black](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
+@color[black](Jupyter Books offer you an easy way to supercharge your published work and advance that story!)
 @snapend
 
 <br>
