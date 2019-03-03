@@ -112,3 +112,10 @@ opacity: 0.75 !important;
 font-size: 50% !important;
 }
 
+.box-stuff #boxed-text {
+  padding-top: 1.95em;
+  padding-bottom: 1.95em;
+  font-size: 0.6em !important;
+}
+
+
