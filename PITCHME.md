@@ -29,7 +29,7 @@
 
 
 @snap[north-east text-left text-07 span-65]
-@snap[text-right text-bold]
+@snap[text-center text-bold]
 @color[white](We know that pages long static PDFs are only a part of your research story.)
 @snapend
 <br>
