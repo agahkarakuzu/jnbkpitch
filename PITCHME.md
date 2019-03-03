@@ -16,7 +16,7 @@
 
 @css[tip](Take on a brief tour of these three options brought by the Jupyter Book.)
 
-@fa[arrow-down]
+@fa[arrow-down fa-3x icon-color]
 
 
 +++?image=img/bg/green.jpg&position=right&size=65% 100% 
@@ -123,7 +123,7 @@ Good news, Jupyter Books have you covered!
 @snapend
 
 @snap[south]
-@fa[arrow-down]
+@fa[arrow-down fa-3x icon-color]
 @snapend
 +++
 @title[Anatomy of a Jupyter Book.]
