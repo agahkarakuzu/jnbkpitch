@@ -14,6 +14,13 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.hdr {
+  color:rgb(44, 43, 43);
+  font-size: 0.6em !important;
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .headline h2 {
   color: white;
   letter-spacing: 0.05em;
@@ -63,7 +70,7 @@ counter-increment: step-counter;
 
 .reveal ol li::before {
 color: white;
-font-size: 80%;
+font-size: 70%;
 /**font-weight: bold;**/
 list-style-position: outside;
 padding: 3px 10px;

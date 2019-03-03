@@ -19,7 +19,7 @@
 @fa[arrow-down]
 
 
-+++?image=img/bg/green.jpg&position=right&size=60% 100% 
++++?image=img/bg/green.jpg&position=right&size=65% 100% 
 @title[Enliven your papers]
 
 @snap[west span-30]
@@ -28,7 +28,7 @@
 @snapend
 
 @snap[north-east text-white text-left span-60]
-###### @color[white](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story! For example:)  
+@css[hdr](We know that pages long static PDFs are only a part of your research story. Jupyter Books offer you an easy way to supercharge your published work and advance that story! For example:)  
 @snapend
 
 @snap[east text-white span-60]
