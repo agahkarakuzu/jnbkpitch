@@ -58,18 +58,7 @@
   font-weight: bold;
 }
 
-.reveal ol li {
-  margin-left: 0;
-  padding-right: 0;
-  list-style-type: none;
-}
-
-.reveal ol li {
-position: relative;
-counter-increment: step-counter;
-}
-
-.reveal ol li::before {
+.reveal ol li{
 color: white;
 font-size: 50%;
 /**font-weight: bold;**/
@@ -113,8 +102,6 @@ font-size: 50% !important;
 }
 
 .box-stuff #boxed-text {
-  padding-top: 1.95em;
-  padding-bottom: 1.95em;
   font-size: 0.6em !important;
 }
 
