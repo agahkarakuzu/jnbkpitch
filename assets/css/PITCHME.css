@@ -57,7 +57,7 @@
   font-weight: bold;
 }
 
-.reveal ol li{
+.reveal ol li::after{
 color: white;
 font-size: 50%;
 /**font-weight: bold;**/
@@ -68,7 +68,7 @@ border-radius: 3px;
 font-size: 0.7em !important;
 background-color:rgba(10,10,10,0.2);
 opacity: 0.3;
-content: counter(step-counter);
+/**content: counter(step-counter);**/
 }
 
 .reveal ol li::before{
