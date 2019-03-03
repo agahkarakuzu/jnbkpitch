@@ -28,7 +28,7 @@
 @snapend
 
 
-@snap[north-east text-left text-07 span-65]
+@snap[north-west text-left text-07 span-65]
 @color[white](We know that pages long static PDFs are only a part of your research story.)
 <br>
 <br>
@@ -36,9 +36,8 @@
 
 @snapend
 
-## 
 
-@snap[east span-65]
+@snap[midpoint span-65]
 @ol[split-screen-list text-08]
 - Breathe interactivity into the display items of your old papers, let readers explore your findings like never before. 
 - Transform a pseudo-algorithm into an online executable codeblock of your favorite language.   
