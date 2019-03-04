@@ -112,3 +112,7 @@ font-size: 50% !important;
   font-size: 0.5em !important;
   font-family: 'Open Sans', sans-serif;
 }
+
+a:link {
+  color: blue;
+}
