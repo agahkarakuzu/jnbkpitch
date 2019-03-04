@@ -184,15 +184,18 @@ print('Copy and paste me to the codeblock!')
 #### @color[gray](Jupyter Books have two building blocks.)
 ![](assets/img/equals.png)
 
-+++?color=linear-gradient(to right, #000000, #ffa500)
++++
 @title[mdipynb]
 
 @snap[north-west span-50]
-#### @color[white](Markdown files)
+#### @color[black](Markdown files)
+![](assets/img/mdown.png)
 @snapend
 
 @snap[north-east span-50]
-#### @color[white](Jupyter Notebooks)
+#### @color[orange](Jupyter Notebooks)
+![](assets/img/ipynbook.png)
+
 @snapend
 
 ---
