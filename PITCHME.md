@@ -192,8 +192,9 @@ print('Copy and paste me to the codeblock!')
 ![](assets/img/mdown.png)
 
 @snap[text-left text-04]
-- Creating a Mardown is a piece of cake, yet Markdowns are powerful. For example, this whole presentation is created out of [a single Markdown file](https://github.com/agahkarakuzu/jnbkpitch/blob/master/PITCHME.md)! 
-- If you would like to learn how to create a Mardkown in 3 minutes, [visit this link](https://guides.github.com/features/mastering-markdown/).
+Creating a Mardown is a piece of cake, yet Markdowns are powerful. For example, this whole presentation is created out of [a single Markdown file](https://github.com/agahkarakuzu/jnbkpitch/blob/master/PITCHME.md)! 
+<br>
+If you would like to learn how to create a Mardkown in 3 minutes, [visit this link](https://guides.github.com/features/mastering-markdown/).
 @snapend
 
 
@@ -202,8 +203,9 @@ print('Copy and paste me to the codeblock!')
 ![](assets/img/ipynbook.png)
 
 @snap[text-right text-04]
-- [Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than **40 programming languages** available to them! 
-- Here is your [quick starter guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) for Jupyter Notebooks.
+[Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than **40 programming languages** available to them! 
+<br>
+Here is your [quick starter guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) for Jupyter Notebooks.
 @snapend
 
 
