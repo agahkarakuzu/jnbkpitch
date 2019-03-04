@@ -190,11 +190,28 @@ print('Copy and paste me to the codeblock!')
 @snap[north-west span-50]
 #### @color[black](Markdown files)
 ![](assets/img/mdown.png)
+
+@snap[text-left text-06]
+Creating a Mardown is a piece of cake, yet Markdowns are powerful. For example, this whole presentation is created out of [a single Markdown file](https://github.com/agahkarakuzu/jnbkpitch/blob/master/PITCHME.md)! 
+@snapend
+
+@snap[text-left text-06]
+If you would like to learn how to create a Mardkown in 3 minutes, [visit this link](https://guides.github.com/features/mastering-markdown/).
+@snapend
+
 @snapend
 
 @snap[north-east span-50]
 #### @color[orange](Jupyter Notebooks)
 ![](assets/img/ipynbook.png)
+
+@snap[text-left text-06]
+The [Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than 40 programming languages available to them! 
+@snapend
+
+@snap[text-left text-06]
+Here is your [quick starter guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) for Jupyter Notebooks.
+@snapend
 
 @snapend
 
