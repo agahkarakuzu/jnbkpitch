@@ -141,6 +141,24 @@ Good news, Jupyter Books have you covered!
 
 <iframe src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
++++
+@title[oneclick]
+
+#### @color[gray](With one click, you have interactive codeblocks!)
+![](assets/img/gif2.gif)
+
++++
+@title[iframe]
+
+#### @color[gray](Try executable codeblocks!)
+@css[tip2](Loading may take a few seconds. Use arrows on the lower right corner for navigation.)
+
+```
+print('Copy and paste me to the codeblock after clicking Interact Inline button, then hit run.')
+```
+
+<iframe src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+
 
 ---
 
