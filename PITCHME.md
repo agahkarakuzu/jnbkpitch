@@ -136,7 +136,7 @@ Good news, Jupyter Books have you covered!
 @title[iframe]
 
 #### @color[gray](Give interactive figure a try!)
-@text[text-06]@color[gray](Jupyter Book from the previous slide will be rendered. It may take few seconds.)
+@css[tip2](Jupyter Book from the previous slide will be rendered. It may take few seconds. Use arrows on the lower right corner for navigation.)
 
 
 <iframe src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
