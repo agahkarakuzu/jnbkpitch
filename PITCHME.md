@@ -294,22 +294,36 @@ The content files are either `Jupyter Notebooks` or `Markdown files`. These are 
 +++ 
 @title[questions]
 
+@snap[north]
 @snap[text-left text-06 text-red]
 @color[red](Can I start writing my paper in Jupyter Book?)
 @snapend
+
+<br>
 
 @snap[text-left text-06 text-red text-italic]
 In theory, you can. But in practice, Jupyter Book's ecosystem does not provide you with a tailored word processor. So, it may not be the most convenient way to start writing a paper from scratch. You can imagine Jupyter Book as medium where you bring different pieces together to create an open, interactive and reproducible publication. 
 @snapend
 
+<br>
+<br>
+
 @snap[text-left text-07]
 @color[red](My work does not include any code. What value can Jupyter Books add to my workflow?) 
 @snapend
 
-@snap[text-left text-06 text-red]
-License? 
-@snapend
+<br>
+<br>
 
 @snap[text-left text-06 text-red]
-Citing? 
+@color[red](License?)
+@snapend
+
+<br>
+<br>
+
+@snap[text-left text-06 text-red]
+@color[red](Citing?) 
+@snapend
+
 @snapend
