@@ -167,6 +167,41 @@ print('Copy and paste me to the codeblock!')
 ---
 
 @snap[west span-50]
+## @color[gray](How to submit a work on Neurolibre?)
+@snapend
+
+@snap[east span-50]
+![](assets/img/jbook.png)
+@snapend
+
+@snap[south]
+@fa[arrow-down fa-3x icon-color]
+@snapend
+
++++
+@title[howtosubmit]
+
+#### @color[gray](create a repository on github and upload your notebooks)
+
++++
+@title[howtosubmit2]
+
+#### @color[gray](Create the necessary requirements files..)
+
++++
+@title[howtosubmit3]
+
+#### @color[gray](Upload your data online)
+
++++
+@title[howtosubmit4]
+
+#### @color[gray](*Here we explain where the user should upload the github repo, TBD ?*)
+
+---
+
+
+@snap[west span-50]
 ## @color[gray](How to create a Jupyter Book?)
 @snapend
 
