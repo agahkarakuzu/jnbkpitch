@@ -215,7 +215,9 @@ Here is your [quick starter guide](https://jupyter-notebook-beginner-guide.readt
 +++
 @title[create]
 
+@snap[north]
 #### @color[Gray](You can create a Jupyter book in 3 lines)
+@snapend
 
 @snap[text-center text-05]
 Open a terminal, and install Jupyter Book:
@@ -243,12 +245,16 @@ jupyter-book build mybookname
 You are all set! You can now either push your book to GitHub and serve the demo with gh-pages, or modify the book with your own content.
 @snapend
 
+@snap[south]
+@css[tip](This tutorial has been adopted from [Jupyter Book website](https://jupyter.org/jupyter-book/intro.html).)
+@snapend
 
 +++ 
 @title[files]
 
-
+@snap[north]
 #### @color[Gray](Let's take a look at the files in demo book)
+@snapend
 
 ```
 mybookname/
@@ -266,6 +272,20 @@ mybookname/
 │   └── toc.yml
 └── requirements.txt
 ```
+
+```
+mybookname/
+├── content
+    └── features
+       ├── features.md
+       └── notebooks.ipynb
+```
+
+**The content files are either Jupyter Notebooks or Markdown files. These are the files that define “pages” in your book.**
+
+@snap[south]
+@css[tip](This tutorial has been adopted from [Jupyter Book website](https://jupyter.org/jupyter-book/intro.html).)
+@snapend
 ---
 
 
