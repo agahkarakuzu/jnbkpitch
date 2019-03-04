@@ -215,38 +215,39 @@ Here is your [quick starter guide](https://jupyter-notebook-beginner-guide.readt
 +++
 @title[create]
 
-@snap[north-west span-50]
 #### @color[Gray](You can create a Jupyter book in 3 lines)
 
-@snap[text-right text-05]
+@snap[text-center text-05]
 Open a terminal, and install Jupyter Book:
+@snapend
 
 ```
 pip install jupyter_book
 ```
-<br>
-<br>
+@snap[text-center text-05]
 Create a new book using the demo book content:
+@snapend
 
 ```
 jupyter-book create mybookname --demo
 ```
-<br>
-<br>
+@snap[text-center text-05]
 Now, build the markdown that Jekyll will use for your book. Run this command:
+@snapend
 
 ```
 jupyter-book build mybookname
 ```
-<br>
-<br>
 
+@snap[text-center text-05]
 You are all set! You can now either push your book to GitHub and serve the demo with gh-pages, or modify the book with your own content.
 @snapend
 
-@snapend
 
-@snap[north-east span-50]
++++ 
+@title[files]
+
+
 #### @color[Gray](Let's take a look at the files in demo book)
 
 ```
@@ -265,7 +266,6 @@ mybookname/
 │   └── toc.yml
 └── requirements.txt
 ```
-@snapend
 ---
 
 
