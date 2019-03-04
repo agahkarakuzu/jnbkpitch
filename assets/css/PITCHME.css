@@ -113,6 +113,12 @@ font-size: 50% !important;
   font-family: 'Open Sans', sans-serif;
 }
 
+.tip3 {
+  color:gray;
+  font-size: 0.4em !important;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .reveal a {
   color: blue;
 }

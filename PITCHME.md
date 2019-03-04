@@ -246,7 +246,7 @@ You are all set! You can now either push your book to GitHub and serve the demo 
 @snapend
 
 @snap[south]
-@css[tip](This tutorial has been adopted from [Jupyter Book website](https://jupyter.org/jupyter-book/intro.html).)
+@css[tip3](This tutorial has been adopted from [Jupyter Book website](https://jupyter.org/jupyter-book/intro.html).)
 @snapend
 
 +++ 
@@ -265,26 +265,20 @@ mybookname/
 ├── _config.yml
 ├── content
 │   ├── features
-│   │  ├── features.md
-│   │  └── notebooks.ipynb
+│   │  ├── features.md ---> This is a markdown file.
+│   │  └── notebooks.ipynb ---> This is a Jupyter Notebook.
 │   └── LICENSE.md
 ├── _data
 │   └── toc.yml
 └── requirements.txt
 ```
 
-```
-mybookname/
-├── content
-    └── features
-       ├── features.md
-       └── notebooks.ipynb
-```
-
-**The content files are either Jupyter Notebooks or Markdown files. These are the files that define “pages” in your book.**
+@snap[text-center text-06]
+The content files are either `Jupyter Notebooks` or `Markdown files`. These are the files that define “pages” in your book.
+@snapend
 
 @snap[south]
-@css[tip](This tutorial has been adopted from [Jupyter Book website](https://jupyter.org/jupyter-book/intro.html).)
+@css[tip3](This tutorial has been adopted from [Jupyter Book website](https://jupyter.org/jupyter-book/intro.html).)
 @snapend
 ---
 
