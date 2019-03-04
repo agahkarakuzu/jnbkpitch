@@ -243,7 +243,7 @@ You are all set! You can now either push your book to GitHub and serve the demo 
 
 @snapend
 
-@snap[north-west span-50]
+@snap[north-east span-50]
 #### @color[Gray](Let's take a look at the files in demo book)
 ```
 mybookname/
