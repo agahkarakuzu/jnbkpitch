@@ -113,6 +113,11 @@ font-size: 50% !important;
   font-family: 'Open Sans', sans-serif;
 }
 
-a:link {
+.reveal a {
   color: blue;
+}
+
+.reveal a:hover {
+  color: green;
+  font-weight: bold;
 }
