@@ -125,6 +125,7 @@ Good news, Jupyter Books have you covered!
 @snap[south]
 @fa[arrow-down fa-3x icon-color]
 @snapend
+
 +++
 @title[Anatomy of a Jupyter Book.]
 
@@ -141,28 +142,7 @@ Good news, Jupyter Books have you covered!
 <iframe src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html#interactive-connectome-plotting" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 
-+++
-@title[Show/hide code cells]
-
-#### @color[gray](Anatomy of a Jupyter Book)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
-
-@title[FAQ]
 
 --> Can I start writing my paper in Jupyter Book? 
 
