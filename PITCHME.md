@@ -148,16 +148,22 @@ Good news, Jupyter Books have you covered!
 ![](assets/img/gif2.gif)
 
 +++
-@title[iframe]
+@title[iframe2]
 
 #### @color[gray](Try executable codeblocks!)
 @css[tip2](Loading may take a few seconds. Use arrows on the lower right corner for navigation.)
 
 ```
-print('Copy and paste me to the codeblock after clicking Interact Inline button, then hit run.')
+print('Copy and paste me to the codeblock!')
 ```
 
 <iframe src="https://brainhack101.github.io/introML-book/01/MAIN_tutorial_intro_to_nilearn.html" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+
++++
+@title[showhide]
+#### @color[gray](You can show/hide codeblocks.)
+![](assets/img/gif3.gif)
+
 
 
 ---
