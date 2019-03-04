@@ -194,6 +194,7 @@ print('Copy and paste me to the codeblock!')
 @snap[text-left text-04]
 Creating a Mardown is a piece of cake, yet Markdowns are powerful. For example, this whole presentation is created out of [a single Markdown file](https://github.com/agahkarakuzu/jnbkpitch/blob/master/PITCHME.md)! 
 <br>
+<br>
 @snapend
 
 @snap[text-left text-04]
@@ -207,7 +208,8 @@ If you would like to learn how to create a Mardkown in 3 minutes, [visit this li
 ![](assets/img/ipynbook.png)
 
 @snap[text-right text-04]
-The [Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than 40 programming languages available to them! 
+The [Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than **40 programming languages** available to them! 
+<br>
 <br>
 @snapend
 
