@@ -196,7 +196,6 @@ Creating a Mardown is a piece of cake, yet Markdowns are powerful. For example, 
 @snapend
 
 <br>
-<br>
 
 @snap[text-left text-04]
 If you would like to learn how to create a Mardkown in 3 minutes, [visit this link](https://guides.github.com/features/mastering-markdown/).
@@ -209,10 +208,9 @@ If you would like to learn how to create a Mardkown in 3 minutes, [visit this li
 ![](assets/img/ipynbook.png)
 
 @snap[text-right text-04]
-The [Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than **40 programming languages** available to them! 
+[Jupyter Notebooks](https://jupyter.org/) allows you to create and share documents that contain live code, equations, visualizations and narrative text. There are more than **40 programming languages** available to them! 
 @snapend
 
-<br>
 <br>
 
 @snap[text-right text-04]
