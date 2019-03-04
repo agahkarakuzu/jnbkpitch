@@ -210,10 +210,58 @@ If you would like to learn how to create a Mardkown in 3 minutes, [visit this li
 Here is your [quick starter guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/) for Jupyter Notebooks.
 @snapend
 
+@snapend
 
++++
+@title[create]
+
+@snap[north-west span-50]
+#### @color[Gray](You can create a Jupyter book in 3 lines)
+
+@snap[text-right text-05]
+Open a terminal, and install Jupyter Book:
+```
+pip install jupyter_book
+```
+<br>
+<br>
+Create a new book using the demo book content:
+```
+jupyter-book create mybookname --demo
+```
+<br>
+<br>
+Now, build the markdown that Jekyll will use for your book. Run this command:
+```
+jupyter-book build mybookname
+```
+<br>
+<br>
+
+You are all set! You can now either push your book to GitHub and serve the demo with gh-pages, or modify the book with your own content.
+@snapend
 
 @snapend
 
+@snap[north-west span-50]
+#### @color[Gray](Let's take a look at the files in demo book)
+```
+mybookname/
+├── assets
+│   └── custom
+│       ├── custom.css
+│       └── custom.js
+├── _config.yml
+├── content
+│   ├── features
+│   │  ├── features.md
+│   │  └── notebooks.ipynb
+│   └── LICENSE.md
+├── _data
+│   └── toc.yml
+└── requirements.txt
+```
+@snapend
 ---
 
 
