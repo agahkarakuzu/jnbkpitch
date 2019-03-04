@@ -164,9 +164,29 @@ print('Copy and paste me to the codeblock!')
 #### @color[gray](You can show/hide codeblocks.)
 ![](assets/img/gif3.gif)
 
+---
+
+@snap[west span-50]
+### @color[gray](How to create a Jupyter Book?)
+@snapend
+
+@snap[east span-50]
+![](assets/img/jbook.png)
+@snapend
+
+@snap[south]
+@fa[arrow-down fa-3x icon-color]
+@snapend
+
++++
+@title[howto]
+
+#### @color[gray](Jupyter Books have two building blocks.)
+![](assets/img/equals.png)
 
 
 ---
+
 
 --> Can I start writing my paper in Jupyter Book? 
 
