@@ -1,4 +1,4 @@
-<iframe src="https://brainhack-school2020.github.io/Biosignal-Emotions-BHS-2020/classifier_comparison_1000_500.html" width="1000px" height="500px" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://brainhack-school2020.github.io/Biosignal-Emotions-BHS-2020/classifier_comparison_1000_500.html" width="1100px" height="500px" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 ---
 @snap[west span-50]
 ### @color[red](We were pondering about a powerful publishing item.)
