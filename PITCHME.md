@@ -1,4 +1,4 @@
-<div style="width:100%;display:block;">
+<div style="width:1000px;height:500px;display:block;">
 <iframe src="https://brainhack-school2020.github.io/Biosignal-Emotions-BHS-2020/classifier_comparison_1000_500.html" width="100%" height="100%" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 </div>
 ---
